@@ -1,6 +1,6 @@
 # Md-Ikram-Hossain-Mojumder
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/Machine-farmer/Machine-farmer/blob/56d41cd78b711684ba6c60334641b08ded486fef/github_profile.jpeg" width="800" height="800"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/md-ikram-hossain-mojumder-13b0601a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
 ### :man_technologist: About Me :
 I am a Cybersecurity Professional from Bangladesh.
 
-- :telescope: I’m currently focused on Information Security and Cloud Infrastructure
+- :telescope: Currently focused on Information Security and Cloud Infrastructure
 - :seedling: Exploring Cybersecurity Domains.
 
 - :zap: In my free time, I run my virtual machines, break them, fix them and understand what's happening and why.
