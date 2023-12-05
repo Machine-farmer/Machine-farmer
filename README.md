@@ -12,19 +12,19 @@
 </div>
 
 
-### :man_technologist: About Me :
-I am a Cybersecurity Professional from Bangladesh.
+### About Me :
+I am a Cybersecurity Researcher from Bangladesh.
 
-- :telescope: Currently focused on Information Security and Cloud Infrastructure
-- :seedling: Exploring Cybersecurity Domains.
+- :telescope: Currently focused on Web Application Security and Testing
+- :shield: Information Security Specialist, Cybersecurity Awareness, Software Testing.
 
 - :zap: In my free time, I run my virtual machines, break them, fix them and understand what's happening and why.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-ikram-hossain-mojumder-13b0601a7/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-ikram-hossain-mojumder-13b0601a7/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@ I am a Cybersecurity Professional from Bangladesh.
 </div>
 
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Machine-farmer&theme=onedark-duo&border_radius=12.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-farmer)](https://github.com/anuraghazra/github-readme-stats)
