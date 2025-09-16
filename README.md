@@ -15,8 +15,9 @@
 ### About Me :
 I am a Cybersecurity Researcher from Bangladesh.
 
-- :telescope: Currently focused on Web Application Security and Testing
-- :shield: Information Security Specialist, Cybersecurity Awareness, Software Testing.
+- 🔐 **Web Application Security Specialist** | Pen Testing | Code Review | SAST/DAST
+- 📡 **Network Security Red Teamer** | Network Analysis | Packet Analysis | CVE Exploitation
+- 🔍 **FIMI Researcher** | Foreign Information Manipulation and Interference Investigator | Geopolitics Expert
 
 - :zap: In my free time, I run my virtual machines, break them, fix them and understand what's happening and why.
 
