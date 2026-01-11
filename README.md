@@ -1,44 +1,61 @@
-# Md-Ikram-Hossain-Mojumder
+# Hey! I'm Ikram Hossain 👋
+
 <div align="center">
-  <img src="https://github.com/Machine-farmer/Machine-farmer/blob/56d41cd78b711684ba6c60334641b08ded486fef/github_profile.jpeg" width="800" height="550"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/md-ikram-hossain-mojumder-13b0601a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/IkramRafiMj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <h3>Security Engineer | Penetration Tester | Instructor</h3>
+  
+  <p>
+    <em>"Hacking is an art, exploits are the artworks"</em>
+  </p>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/md-ikram-hossain-mojumder-13b0601a7/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/IkramRafiMj">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://machine-farmer.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
 </div>
-</div>
-
-
-### About Me :
-I am a Cybersecurity Researcher from Bangladesh.
-
-- 🔐 **Web Application Security Specialist** | Pen Testing | Code Review | SAST/DAST
-- 📡 **Network Security Red Teamer** | Network Analysis | Packet Analysis | CVE Exploitation
-- 🔍 **FIMI Researcher** | Foreign Information Manipulation and Interference Investigator | Geopolitics Expert
-
-- :zap: In my free time, I run my virtual machines, break them, fix them and understand what's happening and why.
-
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-ikram-hossain-mojumder-13b0601a7/)
 
 ---
 
-### Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
+### 👨‍💻 About Me
+
+I'm a **Security Engineer and Penetration Tester** passionate about finding vulnerabilities before the bad guys do. Currently, I work as a **Junior Cybersecurity Engineer** at **Technonext Software Limited**, where I have worked on major products like FirstTrip, Foodi, Carrybee and Cartup.
+
+My expertise spans **Web & Mobile Application Security**, **Network Pentesting**, and  **Exploit Development**. I have also done **industrial research on disinformation**, analyzing foreign information manipulation trends.
+
+- 🔭 **I’m currently working on**: Advanced Android Static Analysis tools.
+- 👯 **I’m looking to collaborate on**: Open-source security tools and CTF challenges.
+- 🔌 **My interests are in**: IoT Hacking and Hardware Hacking.
+
+---
+
+### 💻 Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=Burp%20Suite&logoColor=white" alt="Burp Suite" />
 </div>
 
+---
 
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Machine-farmer&theme=onedark-duo&border_radius=12.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+### 📊 My Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-farmer)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-farmer&layout=compact&theme=gotham" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=Machine-farmer&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+</a>
+</div>
