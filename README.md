@@ -52,5 +52,5 @@ My expertise spans **Web & Mobile Application Security**, **Network Pentesting**
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Machine-farmer&theme=gotham&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Machine-farmer&theme=gotham" alt="GitHub Stats" />
 </div>
