@@ -26,7 +26,7 @@
 
 I'm a **Security Engineer and Penetration Tester** passionate about finding vulnerabilities before the bad guys do. Currently, I work as a **Junior Cybersecurity Engineer** at **Technonext Software Limited**, where I have worked on major products like FirstTrip, Foodi, Carrybee and Cartup.
 
-My expertise spans **Web & Mobile Application Security**, **Network Pentesting**, and  **Exploit Development**. I have also done **industrial research on disinformation**, analyzing foreign information manipulation trends.
+My expertise spans **Web & Mobile Application Security**, **Network Pentesting**, and **Exploit Development**. I have also done **industrial research on disinformation**, analyzing foreign information manipulation trends.
 
 - 🔭 **I’m currently working on**: Advanced Android Static Analysis tools.
 - 👯 **I’m looking to collaborate on**: Open-source security tools and CTF challenges.
@@ -49,13 +49,8 @@ My expertise spans **Web & Mobile Application Security**, **Network Pentesting**
 
 ---
 
-### 📊 My Stats 
+### 📊 My Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-farmer&layout=compact&theme=gotham" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=Machine-farmer&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Machine-farmer&theme=gotham&hide_border=true" height="180" alt="Streak Stats" />
 </div>
