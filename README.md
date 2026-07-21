@@ -52,5 +52,5 @@ My expertise spans **Web & Mobile Application Security**, **Network Pentesting**
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Machine-farmer&theme=gotham" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Machine-farmer/Machine-farmer/main/profile-summary-card-output/gotham/0-profile-details.svg" alt="GitHub Stats" />
 </div>
